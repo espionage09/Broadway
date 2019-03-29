@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font: helvetica;
+  font-size: 14px;
+}
+
+.main--head {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.background--image {
+  background-image: url(../resources/images/the-flatiron-building.png)
+}
+
+#background--image {
+  background-image: url(../resources/images/the-flatiron-building.png)
+}
