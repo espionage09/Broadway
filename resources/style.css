@@ -17,3 +17,39 @@ body {
 #background--image {
   background-image: url(../resources/images/the-flatiron-building.png)
 }
+
+.link {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.sub--heading {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.heading {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.copyright {
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
+
+.heading1 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.align--left {
+  text-align: left;
+}
